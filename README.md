@@ -17,7 +17,7 @@ GreetingImage: Composable for displaying the image background with text overlay.
 ui.theme: Custom theme for the app.
 ## 🎨 Screenshots
 
-
+![Birthday Card App Screenshot](./App%20Screenshot)
 
 
 ## 🔧 Setup

@@ -17,12 +17,12 @@ GreetingImage: Composable for displaying the image background with text overlay.
 ui.theme: Custom theme for the app.
 ## 🎨 Screenshots
 
-<img src="./App%20Screenshot" alt="Birthday Card App Screenshot" width="500">
+<img src="./App%20Screenshot" alt="Birthday Card App Screenshot" width="300">
 
 ## 🔧 Setup
-Clone the repository:
+#### Clone the repository:   
 git clone https://github.com/YourUsername/BirthdayCardApp.git
-Open in Android Studio.
+#### Open in Android Studio.
 Build and run the app on your emulator or device.
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
